@@ -36,10 +36,10 @@ VALUES
 INSERT INTO professor (id, nome, sigla_disc, especialidade, data_adm)
 VALUES
     (101, 'Eduardo Nascimento', 'BD', 'Tecnologia da Informação', '2023-01-15'),
-	(101, 'Eduardo Nascimento', 'PWFE', 'Tecnologia da Informação' ,'2023-01-15'),
+    (101, 'Eduardo Nascimento', 'PWFE', 'Tecnologia da Informação' ,'2023-01-15'),
     (102, 'Matheus Michilino', 'IDM', 'Mecatrônica e Interfaces Robóticas', '2020-01-01'),
     (103, 'Rafael Selvagio', 'PWBE', 'Tecnologia da Informação', '2023-06-01'),
-	(104, 'Rafael Rizzi', 'REDES', 'Eng. Elétrica' ,'2022-01-01');
+    (104, 'Rafael Rizzi', 'REDES', 'Eng. Elétrica' ,'2022-01-01');
 
 select * from professor;
 select * from disciplina;
